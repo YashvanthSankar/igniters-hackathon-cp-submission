@@ -1,8 +1,11 @@
-## This repo contains my solution in C++ for the Igniters Hackathon Series - Competitive Programming Hackathon.
+### This repo contains my solution in C++ for the Igniters Hackathon Series - Competitive Programming Hackathon.
+
+> All the solutions are tested and working properly
 
 My Explanation Document for the C++ Solution - [Explanation](https://docs.google.com/document/d/1QUY3Zc2zyCdgFZIe-KKCqnqTw_aTkq4k8e1XcZFc56M/edit?usp=sharing)
 
 ---
 
-Yashvanth S
-CS24I1029
+Yashvanth S  
+CS24I1029  
+IIITDM Kancheepuram
