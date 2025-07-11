@@ -6,6 +6,10 @@ My Explanation Document for the C++ Solution - [Explanation](https://docs.google
 
 ---
 
-Yashvanth S  
-CS24I1029  
-IIITDM Kancheepuram
+> **Note (added later):** 🥇 This project went on to win **1st place** in the CP Hackathon at *Igniters Hackathon Series* organized by Technical Affairs SAC, IIITDM Kancheepuram.
+
+---
+
+Yashvanth S    
+CS24I1029    
+IIITDM Kancheepuram  
