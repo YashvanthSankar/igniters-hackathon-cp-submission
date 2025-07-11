@@ -6,7 +6,7 @@ My Explanation Document for the C++ Solution - [Explanation](https://docs.google
 
 ---
 
-> **Note (added later):** 🥇 This project went on to win **1st place** in the CP Hackathon at *Igniters Hackathon Series* organized by Technical Affairs SAC, IIITDM Kancheepuram.
+> **Note (added later):** 🥇 Won **1st place** in the CP Hackathon at *Igniters Hackathon Series* organized by Technical Affairs SAC, IIITDM Kancheepuram.
 
 ---
 
